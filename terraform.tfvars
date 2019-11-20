@@ -1,0 +1,7 @@
+aws-region = "us-east-1"
+vpc-cidr = "10.0.0.0/16"
+vpc-name = "Terraform"
+aws-availability-zones = "us-east-1b,us-east-1c"
+jenkins-ami-id = "ami-07b2a73d29e6fe466"
+jenkins-instance-type = "t3a.xlarge"
+jenkins-key-name = "dms-demo"
